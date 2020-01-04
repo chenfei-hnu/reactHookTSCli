@@ -1,0 +1,19 @@
+.homeList {
+  margin: 10px;
+}
+
+.refresh {
+  position: fixed;
+  left: 50px;
+  top: 0;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  color: #fff;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.45);
+  border-radius: 20px;
+  z-index: 10000;
+  line-height: 40px;
+  font-size: 20px;
+}
